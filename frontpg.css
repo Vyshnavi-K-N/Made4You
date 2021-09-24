@@ -1,0 +1,69 @@
+.compsoft{
+    position: fixed;
+    left:170px;
+    top:12px;
+
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: 50px;
+}
+.tech{
+    position: fixed;
+    left:210px;
+    top:58px;
+    color: navy;
+    font-size: 40px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.home , .contact{
+    position:fixed;
+    top:15px;
+    font-size: 25px;
+    font-weight: bold;
+    color:#fff;
+}
+
+.home{
+    position: fixed;
+    right:170px;
+}
+.contact{
+    position:fixed;
+    right:27px;
+}
+
+
+.made{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 170px;
+    font-weight: bold;
+    color: red;
+    align-items: center;
+    text-align: center;
+    position: fixed;
+    left: 500px;
+
+}
+
+.services{
+   position: fixed;
+   left:600px;
+
+}
+
+.foot{
+    position:fixed;
+    bottom: 0%;
+    right: 2px; 
+    text-align: right;
+    color: white ;
+    font-size: 20px;
+
+
+}
+body{
+    
+        background-image: url(img5.PNG);
+        background-size:cover;
+        background-attachment:fixed;
+}

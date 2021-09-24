@@ -1,0 +1,107 @@
+body{
+    font-family: sans-serif;
+    background-image: url(img15.jpg);
+        background-size:cover;
+        background-attachment:fixed;
+} 
+.made4{
+    background:#232B2B;
+    color: white;
+    padding: 25px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.team{
+    background: violet;
+    color: black;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+samp{
+    background-color: blanchedalmond;
+    border-radius: 25px;
+    padding:10px;
+    color:black;
+    font-size: 20px;
+    position:absolute ;
+    left:500px;
+    font-weight: bold;
+}
+
+.box{
+    width: 500px;
+    height: 600px;
+    background-color: blanchedalmond;
+    border-radius: 25px;
+    padding: 10px;
+    position: absolute;
+    left:550px;
+    
+}
+.register{
+    margin: 40px;
+}
+
+.fake{
+    position:absolute;
+    top:1100px;
+}
+.fake1{
+
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+    margin-left: 400px;
+    position: absolute;
+    top: 2px;
+    text-align: center;
+    font-size: 17px;
+    font-family: sans-serif;
+}
+.fake2{
+    
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+    margin-left: 800px;
+    position: absolute;
+    top:2px;
+    text-align: center;
+    font-size: 17px;
+    font-family: sans-serif;
+}
+.fake3{
+    
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+    margin-left: 1200px;
+    position: absolute;
+    top:2px;
+    text-align: center;
+    font-size: 17px;
+    font-family: sans-serif;
+}
+ 
+input#fname , #lname , #pnum ,#mail , #mess{
+    width: 300px;
+    height: 25px;
+    border-radius: 7px;
+    padding: 5px;
+    font-size: 20px;
+}
+
+input#submit{
+    width: 200px;
+    height: 25px ;
+    padding:5px;
+    border-radius: 7px;
+    font-size: 16px;
+    background-color:lightpink ;
+    border: none;
+    position: absolute;
+    left:50%;   
+}
+

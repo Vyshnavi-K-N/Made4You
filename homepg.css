@@ -1,0 +1,122 @@
+.abc{
+    position: absolute;
+    right:20px;
+    top:10px;
+    font-size: 25px;
+    color: purple;
+    font-weight: bold;
+    
+}
+.sec{
+    min-height: 0%;
+    align-items: center;
+    background-color: aliceblue;
+    border-radius: 25px;
+}
+
+.container{
+    padding: 20px 40px;
+    letter-spacing: 10px;
+    text-align: center;
+    position: relative;
+    font-size: 24px;
+}
+
+.info{
+    height: 40%;
+    width: 50%;
+    align-items: center;
+    
+}
+.container1{
+    padding: 20px 40px;
+    letter-spacing: 3px;
+    text-align: center;
+    position: relative;
+    font-size: 20px;
+    background-color: beige;
+    border-radius: 25px;
+}
+
+.container2{
+    padding: 20px 40px;
+    letter-spacing: 3px;
+    position: relative;
+    font-size: 20px;
+    background-color:lightgoldenrodyellow;
+    border-radius: 25px;
+}
+.img{
+    position: absolute;
+    right:200px;
+    top:230px;  
+}
+.ser{
+    position: relative;
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+samp{
+    background: palegreen;
+    border-radius: 20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+.development{
+    position: absolute;
+    left: 100px;
+    width: 40%;
+    height: 350px;
+    background-color: pink;
+    border-radius: 20px;
+    padding: 15px 15px 15px 15px;
+}
+.dev{
+    position: absolute;
+    right: 100px;
+    top: 780px;
+    border-radius: 20px;
+}
+.Consultancy{
+    position: absolute;
+    top:1200px;
+    left:100px;
+    width: 40%;
+    height: 350px;
+    background-color:darkgrey;
+    border-radius: 20px;
+    padding: 15px 15px 15px 15px;
+}
+.con{
+    position: absolute;
+    right: 100px;
+    top: 1220px;
+    border-radius: 20px;
+}
+.video{
+    position: absolute;
+    top:1650px;
+    left:100px;
+    width: 40%;
+    height: 350px;
+    background-color:seashell;
+    border-radius: 20px;
+    padding: 15px 15px 15px 15px;
+}
+.vid{
+    position: absolute;
+    right: 100px;
+    top: 1670px;
+    border-radius: 20px;
+}
+
+.end{
+position: absolute;
+top: 2200px;
+left: 0%;
+right:0%;
+text-align: right;
+padding: 10px;
+}
